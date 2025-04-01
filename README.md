@@ -3,7 +3,7 @@
 
 ![Screenshot do Sistema](https://i.imgur.com/53CMicK.png) 
 
-![Screenshot do Sistema](https://i.imgur.com/e5L1U9s.png) 
+![Screenshot do Sistema](https://i.imgur.com/VBKoiI8.png) 
 
 ## Instalação 
 Requisitos
